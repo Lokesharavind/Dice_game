@@ -1,0 +1,42 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+
+}
+
+body {
+  background-color: #0C356A;
+}
+
+h1 {
+  margin: 45px;
+  font-family: 'Lobster',cursive;
+  font-size: 10rem;
+  text-shadow: 10px 0 lightgray;
+  color:red;
+  /*7B113A*/
+}
+
+p {
+  font-size: 2rem;
+  color: yellowgreen;
+  font-family: 'Canela',serif;
+}
+
+img {
+  width: 90%;
+}
+
+footer {
+  margin-top: 5%;
+  color: yellowgreen;
+  text-align: center;
+  font-family:'Canela',serif;
+
+}
